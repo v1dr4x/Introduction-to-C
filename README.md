@@ -1,3 +1,2 @@
-`Introduction-to-C`
+`Introduction to C programing`
 
-C programming 
