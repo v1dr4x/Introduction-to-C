@@ -1,6 +1,7 @@
 #include <stdio.h>
 
 int main()
+    
 {
     int phy, chem, bio, math, comp; 
     float per; 
