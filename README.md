@@ -4,11 +4,11 @@
 - [x] calculator
 - [x] mark percentage calculator
 - [x] triangle validator
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
+- [ ] -
  
